@@ -1,6 +1,7 @@
 # Automatic-Water-Level-Control-System
 
 # Project Overview
+
 -Developed an Automatic Water Level Control System using Arduino Uno, ESP8266, and Ultrasonic Sensors.
 -Implemented real-time water level monitoring using ultrasonic wave reflection principles.
 -Automated water pump ON/OFF control using threshold-based logic.
